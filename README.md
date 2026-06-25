@@ -234,24 +234,7 @@ NeuroCDS was evaluated on comprehensive benchmarks across four eukaryotic clades
 | 200–500 nt | 0.9968 | 90.39% |
 | 50–200 nt | 0.9821 | 83.83% |
 
----
 
-## Citation
-
-If you use NeuroCDS in your research, please cite:
-
-```bibtex
-@article{mei2024neurocds,
-  title={NeuroCDS: Integrating Local and Global Neural Network Representations 
-         via Segmental Viterbi Decoding for Robust CDS Annotation},
-  author={Mei, Ziheng and Xie, Zhexi and Wu, Lingrui and Wei, Chao},
-  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
-  year={2024},
-  note={Under review}
-}
-```
-
----
 
 ## License
 
